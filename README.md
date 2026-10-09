@@ -7,7 +7,7 @@ I'm building practical cybersecurity skills through structured learning, hands-o
 ## Certificates & Training
 
 ### Google
-- Google Cybersecurity Professional Certificate
+- https://coursera.org/share/792a866d06b984bd1364fd9713e1ef7b
 - Google IT Support Professional Certificate
 
 ### Linux
