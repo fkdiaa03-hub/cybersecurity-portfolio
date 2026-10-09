@@ -7,14 +7,14 @@ I'm building practical cybersecurity skills through structured learning, hands-o
 ## Certificates & Training
 
 ### Google
-- Google Cybersecurity Professional Certificate
-- Google IT Support Professional Certificate
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/792a866d06b984bd1364fd9713e1ef7b)
+- [Google IT Support Professional Certificate](https://coursera.org/share/17d1c4e729a8699e6f7a36e3564c684c)
 
 ### Linux
-- Linux Essentials
+- [Linux Essentials](https://www.credly.com/badges/7c26fd8b-59e8-4fbc-8877-40993fcd0290/public_url)
 
 ### Networking
-- Cisco Networking Basics
+- [Cisco Networking Basics](https://www.credly.com/badges/6db4e5b3-9f18-46f6-ba28-63b9f7bcc2cc/public_url)
 
 These courses helped me build a foundation in cybersecurity, IT support, Linux, and networking. I am continuing to develop these skills through practical labs and projects.
 
